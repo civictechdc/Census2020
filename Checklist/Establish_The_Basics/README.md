@@ -15,4 +15,17 @@
 
 * Determine your event length and customize your agenda
 ## Sample Agenda 1
+### For a 5-hour event
+| Start Time | End Time | Event
+| 0:00       | 0:30     | Check-in
+| 0:30       | 1:00     | Welcome
+| 1:00       | 2:00     | Briefing
+| 2:00       | 4:15     | Creating
+| 4:15       | 5:00     | Report back + Conclusion
 
+### For a 3-hour event
+| Start Time | End Time | Event
+| 0:00       | 0:15     | Check-in
+| 0:15       | 1:00     | Welcome + Briefing
+| 1:00       | 2:30     | Creating
+| 2:30       | 3:00     | Report back + Conclusion
